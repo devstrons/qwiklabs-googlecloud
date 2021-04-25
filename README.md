@@ -26,6 +26,7 @@ _"MAKE IT EASE HERE!"_
 | GSP305 | <a href="https://www.qwiklabs.com/focuses/1739?parent=catalog"> Scale Out and Update a Containerized Application on a Kubernetes Cluster </a> |  |
 | GSP319 | <a href="https://www.qwiklabs.com/focuses/11765?parent=catalog"> Build a Website on Google Cloud: Challenge Lab </a> |  |
 | GSP325 | <a href="https://www.qwiklabs.com/focuses/11881?parent=catalog"> Build Interactive Apps with Google Assistant: Challenge Lab | <a href="https://www.youtube.com/watch?v=7njifKRaYU4"> Click Here |
+| GSP327 | <a href="https://www.qwiklabs.com/focuses/12379?parent=catalog"> Engineer Data in Google Cloud: Challenge Lab | <a href="https://www.youtube.com/watch?v=KTSTD5f_sho"> Click Here |
 | GSP787 | <a href="https://www.qwiklabs.com/focuses/11988?parent=catalog"> Insights from Data with BigQuery: Challenge Lab </a> | <a href="https://www.youtube.com/watch?v=9cEzh3Jis6Y"> Click Here |
 | GSP323 | <a href="https://www.qwiklabs.com/focuses/11044?parent=catalog"> Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab </a> | <a href="https://www.youtube.com/watch?v=FiR3BRN5kQ8"> Click Here |
 
