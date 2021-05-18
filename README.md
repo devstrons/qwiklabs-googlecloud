@@ -1,5 +1,10 @@
-# 'Qwiklabs' x 'GoogleCloud' 
-_Challenge Lab : Arounds you?_
+<div align="center">
+  <h1 align="center"> 'Qwiklabs' x 'GoogleCloud' </h1>
+</div>
+<div align="center">
+  <h5 align="center"><i> Challenge Lab : Arounds you? </i></h5>
+</div>
+
 
 <img width="91.5%" src="https://user-images.githubusercontent.com/75872316/114445166-62ad2180-9bed-11eb-962b-88ba59e3128f.jpeg"/>
 
