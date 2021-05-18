@@ -36,4 +36,6 @@ _"MAKE IT EASE HERE!"_
 | GSP323 | <a href="https://www.qwiklabs.com/focuses/11044?parent=catalog"> Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab </a> | <a href="https://www.youtube.com/watch?v=FiR3BRN5kQ8"> Click Here |
 
 
-[![](https://img.shields.io/badge/</>%20With%20❤️%20By-AMiNOS-green)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
+<p align="center">
+    <img width=20%" src="https://img.shields.io/badge/</>%20With%20❤️%20By-AMiNOS-green"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
+</p>
