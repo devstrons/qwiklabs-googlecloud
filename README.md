@@ -8,7 +8,10 @@
 
 <img width="91.5%" src="https://user-images.githubusercontent.com/75872316/114445166-62ad2180-9bed-11eb-962b-88ba59e3128f.jpeg"/>
 
-_"MAKE IT EASE HERE!"_
+<div align="center">
+  <h3 align="center"><i> "MAKE IT EASE HERE!" </i></h3>
+</div>
+
 
 | GSP CODE | LABS | VIDEOS |
 | -------- | ----- | ----- |
@@ -36,6 +39,5 @@ _"MAKE IT EASE HERE!"_
 | GSP323 | <a href="https://www.qwiklabs.com/focuses/11044?parent=catalog"> Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab </a> | <a href="https://www.youtube.com/watch?v=FiR3BRN5kQ8"> Click Here |
 
 
-<p align="center">
-    <img width=20%" src="https://img.shields.io/badge/</>%20With%20❤️%20By-AMiNOS-green"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
-</p>
+
+[![](https://img.shields.io/badge/</>%20With%20❤️%20By-AMINOS-green)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
