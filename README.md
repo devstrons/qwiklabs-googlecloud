@@ -39,5 +39,6 @@
 | GSP323 | <a href="https://www.qwiklabs.com/focuses/11044?parent=catalog"> Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab </a> | <a href="https://www.youtube.com/watch?v=FiR3BRN5kQ8"> Click Here |
 
 
-
-[![](https://img.shields.io/badge/</>%20With%20❤️%20By-AMINOS-green)](https://github.com/amino19)
+<div align="center">
+  <img src= "https://img.shields.io/badge/</>%20With%20❤️%20By-AMINOS-green"></img>
+</div>
