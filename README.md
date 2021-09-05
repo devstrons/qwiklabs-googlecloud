@@ -40,5 +40,5 @@
 
 
 <div align="center">
-  <img src= "https://img.shields.io/badge/</>%20With%20❤️%20By-AMINOS-green"></img>
+  <img src= "https://img.shields.io/badge/</>%20With%20❤️%20By-DEVSTRONS'-green"></img>
 </div>
